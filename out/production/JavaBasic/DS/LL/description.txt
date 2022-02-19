@@ -1,0 +1,12 @@
+/*
+  Single LinkList:
+  - a node have two thing -> a data(int data) and a node(Node next)
+  - first node called HEAD, last node of the list contains pointer to the null
+  - each value in the list knows the front and last value
+  - used linkList as regular list, stack, queue
+
+  Double LinkList:
+  - a node have three thing -> data(int data), next, prev
+
+
+   */
